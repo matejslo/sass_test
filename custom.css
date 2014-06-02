@@ -1,9 +1,11 @@
 body {
   padding-top: 57px; }
+  body h1 {
+    color: green; }
 
 hr {
-  color: red;
-  background-color: red;
+  color: green;
+  background-color: green;
   height: 1px; }
 
 .notification_table > tbody > tr > td {
@@ -36,9 +38,9 @@ hr {
   width: auto; }
 
 .table td {
-  border-color: red; }
+  border-color: green; }
 .table th {
-  color: red;
+  color: green;
   font-weight: normal; }
 .table tr {
   color: #8b8989; }
